@@ -25,8 +25,11 @@ GitHub：https://github.com/cao-zha/qrcode-decoder
 鸣谢：品络 www.pinluo.com  &ensp;  穷店 www.qiongdian.com
 
 ### 扫码体验
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0505/115321_cf3cf19a_7397417.jpeg "工具大全")
 
+ **扫码打开“工具大全”，点击：“二维码解码”，即可体验此小程序。** 
 
 ### 界面预览
 
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0505/115844_dfa86299_7397417.jpeg "1") &ensp; ![输入图片说明](https://images.gitee.com/uploads/images/2020/0505/115909_4e42ee9f_7397417.jpeg "2")
 
