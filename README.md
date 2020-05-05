@@ -10,9 +10,9 @@
 
 支持本程序，请到Gitee和GitHub给我们点Star！
 
-Gitee：https://gitee.com/caozha/AI-Intelligent-Recognition
+Gitee：https://gitee.com/caozha/qrcode-decoder
 
-GitHub：https://github.com/cao-zha/AI-Intelligent-Recognition
+GitHub：https://github.com/cao-zha/qrcode-decoder
 
 ### 安装方法
 
