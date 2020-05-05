@@ -1,0 +1,14 @@
+<!--pages/index/index.wxml-->
+<view class="root">    
+    <view class="jieguo">
+    <view wx:if="{{show_r}}" class="location"><view style='font-weight:bold;'>二维码/条形码解码结果：</view>    
+    <view class='location_r' bindtap="copyBtn"><text>{{location}}</text></view>    
+    </view>
+    <view wx:if="{{show_img}}" class="ip-value"><view class="ip-value2" bindtap="queryIp"><view class="ip-value3">选择二维码/条形码图片</view></view></view>
+    <button type="primary" class="query-button" bindtap="queryIp">扫二维码/条形码</button>
+    <view class="location2"><text>【提示】随着二维码（条形码）的流行，二维码（条形码）的安全问题受到越来越多的重视。本工具可以快捷地解码二维码（条形码）图片中隐藏的内容，用于安全检测，判断二维码（条形码）内容是否含有假冒、违法或者病毒等有害信息。</text></view>
+    </view>    
+</view>
+<view class="banquan">
+    <text class="bq" bindtap="banquan">©caozha.com 草札</text>
+</view>
