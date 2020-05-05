@@ -18,7 +18,7 @@ GitHub：https://github.com/cao-zha/qrcode-decoder
 
 使用微信开发者工具设置一下您的appid等信息，然后上传到微信小程序即可。
 
-### 版权所有
+### 关于开发者
 
 开发：草札 www.caozha.com
 
