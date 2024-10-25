@@ -10,19 +10,19 @@
 
 支持本程序，请到Gitee和GitHub给我们点Star！
 
-Gitee：https://gitee.com/caozha/qrcode-decoder
+Gitee：https://gitee.com/dengzhenhua/qrcode-decoder
 
-GitHub：https://github.com/cao-zha/qrcode-decoder
+GitHub：https://github.com/dengcao/qrcode-decoder
 
 ### 安装方法
 
 使用微信开发者工具设置一下您的appid等信息，然后上传到微信小程序即可。
 
-### 关于开发者
+### 关于
 
-开发：草札 www.caozha.com
+开发：[邓草博客 blog.5300.cn](http://blog.5300.cn)
 
-鸣谢：品络 www.pinluo.com  &ensp;  穷店 www.qiongdian.com
+赞助：[品络互联 www.pinluo.com](http://www.pinluo.com)  &ensp;  [AI工具箱 5300.cn](http://5300.cn)  &ensp;  [汉语言文学网 hyywx.com](http://hyywx.com)  &ensp;  [雄马 xiongma.cn](http://xiongma.cn) &ensp;  [优惠券 tm.gs](http://tm.gs)
 
 ### 扫码体验
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0505/115321_cf3cf19a_7397417.jpeg "工具大全")
